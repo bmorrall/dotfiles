@@ -1,2 +1,5 @@
 [core]
   excludesfile = ~/.gitignore.local
+[user]
+  name = Ben Morrall
+  email = benm@locomote.com.au
