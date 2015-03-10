@@ -1,0 +1,7 @@
+alias lol='echo HA!'
+
+# Bundler shorthand
+alias be="bundle exec"
+alias ber="bundle exec rails"
+alias bes="bundle exec rspec"
+alias berk="bundle exec rake"
