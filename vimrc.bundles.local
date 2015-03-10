@@ -1,0 +1,9 @@
+Bundle 'bmorrall/vim-colors-twilight2'
+Bundle 'vim-scripts/twilight'
+
+Bundle 'altercation/vim-colors-solarized'
+Bundle 'tpope/vim-dispatch'
+
+Plugin 'vim-cucumber'
+Plugin 'vim-rubocop'
+
