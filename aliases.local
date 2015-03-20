@@ -1,7 +1,8 @@
 alias lol='echo HA!'
 
 # Bundler shorthand
-alias be="bundle exec"
-alias ber="bundle exec rails"
-alias bes="bundle exec rspec"
-alias berk="bundle exec rake"
+alias be="spring"
+alias ber="spring rails"
+alias bes="spring rspec"
+alias berk="spring rake"
+alias ss="spring stop"
